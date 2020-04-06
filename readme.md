@@ -1,1 +1,1 @@
-I'm learning how to manipulate webpages using browser devtools
+I've learned how to format a webpage to mimic the google homepage using HTML and CSS
